@@ -1,7 +1,7 @@
 # Tensorflow Object Detection Mold Bread
 <br>
 Dataset : https://drive.google.com/file/d/11fIkKv6f0lNnrx2xQyY4d_ckuOaZhyrL/view?usp=sharing
-<br>
+
 ## Steps
 <br />
 <b>Step 1.</b> Clone this repository: https://github.com/nicknochnack/TFODCourse
